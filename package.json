@@ -1,0 +1,13 @@
+{
+  "name": "trackmania-threejs",
+  "version": "1.0.0",
+  "description": "Trackmania Clone with Three.js - Vibe Coding Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": ["three.js", "trackmania", "racing", "game"],
+  "author": "Vibe Coding Students",
+  "license": "MIT"
+}
